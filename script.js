@@ -17,10 +17,10 @@ function getWeatherDummy() {
 
 function getWeather() {
   console.log("In getWeather");
-  var WeatherUrl = "http://api.openweathermap.org/data/2.5/weather?q="
+  var WeatherUrl = "https://api.openweathermap.org/data/2.5/weather?q="
   var queryURL = WeatherUrl + city + apiKey + units;
 
-  var weatherIconUrl1 = "http://openweathermap.org/img/w/"
+  var weatherIconUrl1 = "https://openweathermap.org/img/w/"
   var iconNum = "";
   var weatherIconUrl3 = ".png";
   
@@ -79,7 +79,7 @@ function getWeather() {
 
 function getUVI() {
   console.log("In getUVI");
-  var uviUrl = "http://api.openweathermap.org/data/2.5/uvi?"
+  var uviUrl = "https://api.openweathermap.org/data/2.5/uvi?"
   var latStng = "lat=";
   var lonStng = "&lon=";
     
@@ -106,10 +106,10 @@ function getUVI() {
 
 function getForecast() {
 
-  var ForcastUrl = "http://api.openweathermap.org/data/2.5/forecast?q="
+  var ForcastUrl = "https://api.openweathermap.org/data/2.5/forecast?q="
   var forcastCall = ForcastUrl + city + apiKey + units; 
 
-  //var weatherIconUrl1 = "http://openweathermap.org/img/w/"
+  //var weatherIconUrl1 = "https://openweathermap.org/img/w/"
   //var iconNum = "";
   //var weatherIconUrl3 = ".png";
 
