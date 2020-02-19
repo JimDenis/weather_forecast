@@ -1,5 +1,5 @@
-// Move info from the hour to local storage
 
+// Get hard coded weather so no call need to be made. For testing only !!!!!
 function getWeatherDummy() {
   console.log("In getWeatherDummy"); 
   
@@ -13,8 +13,7 @@ function getWeatherDummy() {
       
 }
 
-// Move info from the hour to local storage
-
+// Get todays weather for a city
 function getWeather() {
   console.log("In getWeather");
   var WeatherUrl = "https://api.openweathermap.org/data/2.5/weather?q="
@@ -77,6 +76,7 @@ function getWeather() {
       
 }
 
+// Get todays UVI for a city
 function getUVI() {
   console.log("In getUVI");
   var uviUrl = "https://api.openweathermap.org/data/2.5/uvi?"
@@ -104,6 +104,7 @@ function getUVI() {
       
 }
 
+//Get long range forecst
 function getForecast() {
 
   var ForcastUrl = "https://api.openweathermap.org/data/2.5/forecast?q="
@@ -183,8 +184,8 @@ function getForecast() {
 
 
 
-// Move info from the hour to local storage
 
+// Get incoming city & build a button for that city 
 function getInput() {
   //console.log("In getInput");
   //var inCity = document.getElementById(cityInput).value;
@@ -210,7 +211,7 @@ function getInput() {
   getWeather() 
 }
 
-//Goes to local storage & see if anything is there for our hours
+//Goes to local storage & see if cities are out there. If there are build buttons.
 function getLocalStorage() {
 
   var getCities = localStorage.getItem("Cites");
