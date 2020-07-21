@@ -1,4 +1,4 @@
-# weather_forcast
+# weather_forecast
 
 ![Alt text](https://github.com/JimDenis/weather_forecast/blob/master/weather_forecaster.png)
 
