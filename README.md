@@ -1,5 +1,7 @@
 # weather_forcast
 
+https://github.com/JimDenis/weather_forecast/blob/master/weather_forecaster.png
+
 Just key in the city name & the weather for that day & that city will pop up. In the bottom in the blue area is the 5 day forecast for that city. Any city entered will also have a new button created. This screen will also "remember" what you put in for the next time you use the app.
 
 Release 2: 02/23/20
