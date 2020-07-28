@@ -11,9 +11,10 @@ Needed an API key for openweathermap.org.
 ### Installing
 
 Installed using GitHub with following commands:
-git add -A
-git commit -m"comment goes here"
-git push
+
+-   git add -A
+-   git commit -m"comment goes here"
+-   git push
 
 ## Running the tests
 
