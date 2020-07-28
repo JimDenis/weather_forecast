@@ -25,6 +25,6 @@ No automated testing
 
 ## Authors
 
--   **JIM Denis** - _Initial work_ - [JimDenis](https://github.com/JimDenis)
+-   **Jim Denis** - _Initial work_ - [JimDenis](https://github.com/JimDenis)
 
 This app can be found on https://jimdenis.github.io/weather_forecast/.
