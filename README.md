@@ -4,6 +4,12 @@
 
 Just key in the city name & the weather for that day & that city will pop up. In the bottom in the blue area is the 5 day forecast for that city. Any city entered will also have a new button created. This screen will also "remember" what you put in for the next time you use the app.
 
+### Instrutions:
+
+-   Add city name in "Search for City" & hit go button or enter
+-   The weather for that city will diplay.
+    ![Alt text](screencapture-jimdenis-github-io-day_planner-1595966062373.png)
+
 ### Prerequisites
 
 Needed an API key for openweathermap.org.
