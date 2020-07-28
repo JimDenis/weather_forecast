@@ -8,7 +8,7 @@ Just key in the city name & the weather for that day & that city will pop up. In
 
 -   Add city name in "Search for City" & hit go button or enter
 -   The weather for that city will diplay.
-    ![Alt text](screencapture-jimdenis-github-io-day_planner-1595966062373.png)
+    ![Alt text](screencapture-jimdenis-github-io-weather_forecast-1595975921437.png)
 
 ### Prerequisites
 
