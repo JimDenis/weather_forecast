@@ -14,6 +14,8 @@ Just key in the city name & the weather for that day & that city will pop up. In
 
     ![Alt text](screencapture-jimdenis-github-io-weather_forecast-1596038624756.png)
 
+    ![Alt text](https://github.com/JimDenis/weather_forecast/blob/master/weather_forecaster.png)
+
 ### Prerequisites
 
 Needed an API key for openweathermap.org.
