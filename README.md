@@ -10,11 +10,7 @@ Just key in the city name & the weather for that day & that city will pop up. In
 -   The weather for that city will diplay.
 -   See example below of the first screen.....
 
-    ![Alt text](screencapture-jimdenis-github-io-weather_forecast-1595975921437.png)
-
     ![Alt text](screencapture-jimdenis-github-io-weather_forecast-1596038624756.png)
-
-    ![Alt text](https://github.com/JimDenis/weather_forecast/blob/master/weather_forecaster.png)
 
 ### Prerequisites
 
@@ -35,6 +31,7 @@ No automated testing
 ## Built With
 
 -   HTML
+-   CSS
 -   Bootstrap
 -   AJAX
 -   JavaScript
